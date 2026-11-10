@@ -1,4 +1,4 @@
-# T3 – SIASUS
+# Trabalho 3 – - Análise de Dados do SIASUS para Apoio à Gestão Municipal de Saúde
 
 ## Descrição
 Projeto desenvolvido para a atividade T3 da disciplina de Programação para Ciência de Dados. O trabalho utiliza dados do Sistema de Informações Ambulatoriais do SUS (SIASUS) para realizar consultas, análises e visualizações com SQL e Python.
