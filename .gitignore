@@ -1,0 +1,14 @@
+
+# Arquivos de dados
+*.dbc
+*.dbf
+*.csv
+
+# Arquivos temporários
+*.log
+*.tmp
+__pycache__/
+*.pyc
+
+# Configurações locais
+.env
