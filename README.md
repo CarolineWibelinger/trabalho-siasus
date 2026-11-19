@@ -59,3 +59,7 @@ Os scripts SQL disponibilizados aqui criam apenas a estrutura das tabelas (`CREA
 A análise apresenta informações sobre os procedimentos realizados, estabelecimentos de saúde, diagnósticos, ocupações, sexo e faixa etária dos pacientes, além dos valores apresentados e aprovados durante o período analisado.
 
 O trabalho permitiu conhecer melhor as características da produção ambulatorial de Ijuí no mês de agosto de 2026.
+
+## Integrantes
+
+Camila Monteiro Mendes Rodrigues, Caroline da Rosa Wibelinger e Poliana Pautz Müller
